@@ -8,11 +8,11 @@ I have been working professionally in a technology company since 2016 focusing m
 
 <!--Top Languages-->
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Github Stats-->
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-does-block&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-does-block&show_icons=true)
 
 <!--Profile Counts-->
 ![](https://komarev.com/ghpvc/?username=andy-does-block&style=flat-square&color=gray)
