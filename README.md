@@ -6,7 +6,7 @@ Welcome to yard. This github account is a fresh space created in 2021 to explore
 ## About
 I have been working professionally in a technology company since 2016 focusing mostly on the FRONT-END and MIDDLE-TIER with some exposure to DEV-OPS. 
 
-#StackBlitz
+# StackBlitz
 [StackBlitz Account](https://stackblitz.com/@andy-does-block)
 
 
