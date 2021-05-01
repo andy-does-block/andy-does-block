@@ -16,7 +16,7 @@ I have been working professionally in a technology company since 2016 focusing m
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-does-block&show_icons=true)
 
 <!--Profile Counts-->
-![](https://komarev.com/ghpvc/?username=andy-does-block&style=flat-square&color=gray)
+![](https://komarev.com/ghpvc/?username=andy-does-block&style=flat-square&color=gray&theme=gruvbox)
 
 <!--
 **andy-does-block/andy-does-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
