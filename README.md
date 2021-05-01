@@ -1,4 +1,16 @@
-### Hi there 👋
+### Welcome To Andy's Curiosity Playground👋
+
+
+## The Yard
+Welcome to yard. This github account is a fresh space created in 2021 to explore and learn about new technologies. 
+
+## About
+I have been working professionally in a technology company since 2016 focusing mostly on the FRONT-END and MIDDLE-TIER with some exposure to DEV-OPS. 
+
+
+
+
+
 
 <!--
 **andy-does-block/andy-does-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
