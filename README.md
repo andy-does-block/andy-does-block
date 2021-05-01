@@ -8,7 +8,8 @@ I have been working professionally in a technology company since 2016 focusing m
 
 <!--Top Languages-->
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Github Stats-->
 # Stats
