@@ -1,16 +1,19 @@
 ### Welcome To Andy's Curiosity Playground👋
 
 
-## The Yard
 Welcome to yard. This github account is a fresh space created in 2021 to explore and learn about new technologies. 
 
 ## About
 I have been working professionally in a technology company since 2016 focusing mostly on the FRONT-END and MIDDLE-TIER with some exposure to DEV-OPS. 
 
+<!--Top Languages-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--Github Stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-does-dev&show_icons=true&theme=gruvbox)
 
-
-
+<!--Profile Counts-->
+![](https://komarev.com/ghpvc/?username=andy-does-block&style=flat-square&color=gray)
 
 <!--
 **andy-does-block/andy-does-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
