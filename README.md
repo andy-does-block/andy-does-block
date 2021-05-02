@@ -1,7 +1,7 @@
 ### Welcome To Andy's Curiosity Playground👋
 
 
-Welcome to yard. This github account is a fresh space created in 2021 to explore and learn about new technologies. 
+Welcome to yard. This github account is a fresh space created in 2021 to explore and learn new technologies. 
 
 ## About
 I have been working professionally in a technology company since 2016 focusing mostly on the FRONT-END and MIDDLE-TIER with some exposure to DEV-OPS. 
